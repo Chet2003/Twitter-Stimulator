@@ -1,7 +1,7 @@
 # Twitter-Stimulator
 Student Name: Chetram Sanichar 
 Username: csanicha
-Student ID: 1183223
+Student ID: 1183223 
 Assignment Name: Tweet Manager
 Due Date: April 3rd, 2022 
 Date of Last Revision: April 3rd, 2022
