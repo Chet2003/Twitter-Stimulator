@@ -33,14 +33,3 @@ loadTweetsFromFile.c - A source code that contain the function loadTweetsFromFil
                        through using a file, which is inputted by the user.
 sortID.c - A source code that contains the function sortID, which sorts the nodes in ascending order, according to their 
            id
-
-Known limitations: 
-An inefficiency exists in searchTweetsByKeyword.c because the function generates subwords that
-are the same length of keyword. Each subword is compared to the keyword, which for text with 
-large lengths can be require a large amount of computational power to complete. 
-
-Future Improvements:
-Improvements that could be made to the assignment in the future involve creating more efficient
-code, which does not incorporate a large amount of components and variables. An additional 
-improvement includes incorporating more informative comments to help improve another 
-individual's understanding of my code. 
