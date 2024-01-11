@@ -1,5 +1,5 @@
 # Twitter-Stimulator
-Student Name: Chetram Sanichar 
+Student Name: Chetram Sanichar\n
 Username: csanicha
 Student ID: 1183223 
 Assignment Name: Tweet Manager
